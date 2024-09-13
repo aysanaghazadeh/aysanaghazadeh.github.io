@@ -1,14 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+category: conferences
+permalink: 
+excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversarial dataset on PittAd dataset.'
+date: 2024-09-10
+venue: 'under review'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Aysan Aghazadeh*, Sina Malakouti*, Ashmit Khandelwal, Adriana Kovashka'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+* In this paper, we introduce three novel tasks to evaluate the VLMs' perfromance in complex reasoning on atypical images task.
+* We introduce a new adversarial dataset on [PittAd](https://people.cs.pitt.edu/~kovashka/hussain_zhang_kovashka_ads_cvpr2017.pdf) to assess the VLMs' semantical understanding against LLMs.
+* We show that although VLMs are able to generate acceptable and useful descriptions for LLMs to understand the images their performance is lower than LLMs in reasoning and semantical understanding of the images.
