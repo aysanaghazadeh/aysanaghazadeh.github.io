@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Recitation - CS 1520 PROGRAMMING LANGUAGE FOR WEB APPLICATIONS"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate course - recitation"
+permalink: 
+venue: "University of Pittsburgh, Department of Computer Science"
+date: Fall 2022 - Spring 2023 - Fall 2023
+location: "Pittsburgh, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
