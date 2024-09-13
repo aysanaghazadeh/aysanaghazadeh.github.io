@@ -1,14 +1,14 @@
 ---
-title: "Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
+title: "\[preprint\]Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
 collection: publications
-category: conferences
+category: Preprint
 permalink: 
 excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversarial dataset on PittAd dataset.'
 date: 2024-09-10
-venue: 'under review'
+venue: 
 slidesurl: 
 paperurl: 
-citation: 'Aysan Aghazadeh*, Sina Malakouti*, Ashmit Khandelwal, Adriana Kovashka'
+citation: 
 ---
 
 * In this paper, we introduce three novel tasks to evaluate the VLMs' perfromance in complex reasoning on atypical images task.
