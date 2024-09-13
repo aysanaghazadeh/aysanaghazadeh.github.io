@@ -6,8 +6,8 @@ permalink:
 excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversarial dataset on PittAd dataset.'
 date: 2024-09-10
 venue: 'under review'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: 
+paperurl: 
 citation: 'Aysan Aghazadeh*, Sina Malakouti*, Ashmit Khandelwal, Adriana Kovashka'
 ---
 
