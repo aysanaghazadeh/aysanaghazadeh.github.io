@@ -1,5 +1,5 @@
 ---
-title: "\[preprint\]Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
+title: "[preprint]Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
 collection: publications
 category: Preprint
 permalink: 
