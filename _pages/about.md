@@ -15,4 +15,3 @@ News
 ======
 * **\[September 2024\]** <span style="color:red"> **New Preprint Paper**: </span> Benchmarking VLMs’ Reasoning About Persuasive Atypical Images
 * **\[May 2022\]** Joined Cellanome as a Computer Vision Intern
-* **\[September 2021\]** Joined the University of Pittsburgh as a PhD student
