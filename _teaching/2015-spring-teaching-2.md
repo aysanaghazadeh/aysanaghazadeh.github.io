@@ -1,10 +1,10 @@
 ---
 title: "Recitation - CS 0441 DISCRETE STRUCTURES"
 collection: teaching
-type: "Undergraduate Course - recitation"
+type: "Undergraduate Course"
 permalink: 
 venue: "University of Pittsburgh, Department of Computer Science"
-date: 
+date: 2022-01-01
 location: "Pittsburgh, PA"
 ---
 * Spring 2022
