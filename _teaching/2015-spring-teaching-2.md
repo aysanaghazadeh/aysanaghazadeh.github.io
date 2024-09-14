@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course - recitation"
 permalink: 
 venue: "University of Pittsburgh, Department of Computer Science"
-date: Spring 2022
+date: 
 location: "Pittsburgh, PA"
 ---
+* Spring 2022
