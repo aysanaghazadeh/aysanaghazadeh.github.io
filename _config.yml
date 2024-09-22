@@ -21,7 +21,7 @@ repository               : "aysanaghazadeh/aysanaghazadeh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_aysan.png"
+  avatar           : "profile_image.png"
   name             : "Aysan Aghazadeh"
   pronouns         : "she/her"# example: "she/her"  
   bio              : "PhD student in Computer Science"
