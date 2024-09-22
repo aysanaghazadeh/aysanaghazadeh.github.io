@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2023 - Presnet: Graduate Research Assistant
+* Spring 2023 - Present: Graduate Research Assistant
   * University of Pittsburgh
   * Supervisor: [Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/index.htm)
 
