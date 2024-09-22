@@ -19,7 +19,7 @@ Work experience
 ======
 * Spring 2023 - Presnet: Graduate Research Assistant
   * University of Pittsburgh
-  * Supervisor: Aysan Aghazadeh
+  * Supervisor: [Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/index.htm)
 
 * Summer 2022: Computer Vision Intern
   * Cellanome
