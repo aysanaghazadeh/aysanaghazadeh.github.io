@@ -17,5 +17,5 @@ I'm a 4th year PhD student in Computer Science at the University of Pittsburgh, 
 
 News
 ======
-* **\[September 2024\]** Our paper **Benchmarking VLMs’ Reasoning About Persuasive Atypical Images** [(link)](https://arxiv.org/pdf/2409.10719) is accepted to WACV 2025.
+* **\[October 2024\]** Our paper **Benchmarking VLMs’ Reasoning About Persuasive Atypical Images** [(link)](https://arxiv.org/pdf/2409.10719) is accepted to WACV 2025.
 * **\[May 2022\]** Joined Cellanome as a Computer Vision Intern
