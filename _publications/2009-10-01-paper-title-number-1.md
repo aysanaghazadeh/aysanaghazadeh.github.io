@@ -1,7 +1,7 @@
 ---
-title: "[preprint]Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
+title: "Benchmarking VLMs’ Reasoning About Persuasive Atypical Images’"
 collection: publications
-category: Preprint
+category: Conference
 permalink: 
 excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversarial dataset on PittAd dataset.'
 date: 2024-09-10
