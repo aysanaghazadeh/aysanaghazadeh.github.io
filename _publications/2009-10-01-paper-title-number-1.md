@@ -4,8 +4,8 @@ collection: publications
 category: Conference
 permalink: 
 excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversarial dataset on PittAd dataset.'
-date: 2024-09-10
-venue: 
+date: 2025-02-28
+venue: WACV
 slidesurl: 
 paperurl: 
 citation: 
