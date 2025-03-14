@@ -1,5 +1,5 @@
 ---
-title: "[preprint]CAP🧢: Evaluation of Persuasive and Creative Image Generation"
+title: "[preprint] CAP🧢: Evaluation of Persuasive and Creative Image Generation"
 collection: publications
 category: preprint
 permalink: 
@@ -11,5 +11,5 @@ paperurl:
 citation:
 ---
 
-We introduce **AIM** (Alignment of Image and Message), **$C_{\{obj\}}$**, and **$P_{\{comp+AIM\}}$** metrics to evaluate the alignment with abstract messages, creativity, and persuasion in images, respectively.
+We introduce **AIM** (Alignment of Image and Message), $C_{obj}$, and $P_{comp+AIM}$ metrics to evaluate the alignment with abstract messages, creativity, and persuasion in images, respectively.
 
