@@ -11,4 +11,5 @@ paperurl:
 citation:
 ---
 
-We introduce AIM (Alignment of Image and Message), C_{obj}, and P_{comp+AIM} metrics to evaluate the alignment with abstract message, creativity and persuasion in images respectively.
+We introduce **AIM** (Alignment of Image and Message), **$C_{\{obj\}}$**, and **$P_{\{comp+AIM\}}$** metrics to evaluate the alignment with abstract messages, creativity, and persuasion in images, respectively.
+
