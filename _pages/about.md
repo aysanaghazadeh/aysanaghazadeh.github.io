@@ -17,7 +17,7 @@ I'm a 4th year PhD student in Computer Science at the University of Pittsburgh, 
 
 News
 ======
-* **\[June 2025\]** I will join Google as Student Researcher Fall 2025.
+* **\[June 2025\]** I joining Google as Student Researcher in Fall 2025.
 * **\[December 2024\]** <span style="color:red">New preprint</span>. **CAP: evaluation of Persuasive and Creative Image Generation** [(link)](https://arxiv.org/pdf/2412.10426).
 * **\[October 2024\]** Our paper **Benchmarking VLMs’ Reasoning About Persuasive Atypical Images** [(link)](https://arxiv.org/pdf/2409.10719) is accepted to WACV 2025.
 * **\[September 2024\]** <span style="color:red">New preprint</span> **Benchmarking VLMs’ Reasoning About Persuasive Atypical Images** [(link)](https://arxiv.org/pdf/2409.10719).
