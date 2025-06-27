@@ -1,10 +1,10 @@
 ---
-title: "[preprint] CAP🧢: Evaluation of Persuasive and Creative Image Generation"
+title: "CAP🧢: Evaluation of Persuasive and Creative Image Generation"
 collection: publications
-category: preprint
+category: ICCV 2025
 permalink: 
 excerpt: 
-date: 2024-12-10
+date: 2025-10-20
 venue: 
 slidesurl: 
 paperurl: 
