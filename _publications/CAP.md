@@ -1,11 +1,11 @@
 ---
 title: "CAP🧢: Evaluation of Persuasive and Creative Image Generation"
 collection: publications
-category: ICCV 2025
+category: Conference
 permalink: 
 excerpt: 
-date: 2025-10-20
-venue: 
+date: 2025-10-19
+venue: ICCV 2025
 slidesurl: 
 paperurl: 
 citation:
