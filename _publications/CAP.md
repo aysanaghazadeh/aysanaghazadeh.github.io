@@ -5,7 +5,7 @@ category: Conference
 permalink: 
 excerpt: 
 date: 2025-10-19
-venue: ICCV 2025
+venue: ICCV
 slidesurl: 
 paperurl: 
 citation:
