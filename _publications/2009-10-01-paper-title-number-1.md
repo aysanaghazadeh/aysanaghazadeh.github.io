@@ -7,7 +7,7 @@ excerpt: 'We introduce 3 novel tasks on understanding atypicality and an adversa
 date: 2025-02-28
 venue: WACV
 slidesurl: 
-paperurl: 
+paperurl: https://aysanaghazadeh.github.io/PersuasiveAdVLMBenchmark/
 citation: 
 ---
 
