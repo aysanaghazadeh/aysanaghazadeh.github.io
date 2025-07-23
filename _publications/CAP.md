@@ -7,7 +7,7 @@ excerpt:
 date: 2025-10-19
 venue: ICCV
 slidesurl: 
-paperurl: 
+paperurl: https://aysanaghazadeh.github.io/CAP/
 citation:
 ---
 
