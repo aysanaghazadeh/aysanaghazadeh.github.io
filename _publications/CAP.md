@@ -2,7 +2,7 @@
 title: "CAP🧢: Evaluation of Persuasive and Creative Image Generation"
 collection: publications
 category: Conference
-permalink: 
+permalink: https://aysanaghazadeh.github.io/CAP/
 excerpt: 
 date: 2025-10-19
 venue: ICCV
