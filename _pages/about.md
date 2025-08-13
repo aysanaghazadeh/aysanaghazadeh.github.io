@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a year PhD candidate in Computer Science at the University of Pittsburgh, working under the supervision of [Dr. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/index.htm). My research interests are Computer Vision, Multimodal Reasoning, and Generative AI. My current research is on:
+I'm a PhD candidate in Computer Science at the University of Pittsburgh, working under the supervision of [Dr. Adriana Kovashka](https://people.cs.pitt.edu/~kovashka/index.htm). My research interests are Computer Vision, Multimodal Reasoning, and Generative AI. My current research is on:
 * Generation and Evaluation of Persuasive Advertisement Images
   * Persuasiveness, Creativity, and alignment evaluation
   * Image generation for abstract text inputs
