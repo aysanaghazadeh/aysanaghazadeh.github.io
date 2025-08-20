@@ -17,6 +17,7 @@ I'm a PhD candidate in Computer Science at the University of Pittsburgh, working
 
 News
 ======
+* **\[August 2025\]** Our paper **Face of Persuasion: Analyzing Bias and Generating Culture-Aware Ads** is accepted to EMNLP 2025.
 * **\[June 2025\]** Our paper **CAP: Evaluation of Persuasive and Creative Image Generation** [(link)](https://arxiv.org/pdf/2412.10426) is accepted to ICCV 2025.
 * **\[June 2025\]** I passed my proposal on topic of **Understanding, Evaluating, and Generating Advertisement Content**. 
 * **\[May 2025\]** I am joining Google as a Student Researcher in Fall 2025.
