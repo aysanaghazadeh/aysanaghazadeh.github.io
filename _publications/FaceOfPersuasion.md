@@ -5,7 +5,7 @@ category: Conference
 permalink: 
 excerpt: 
 date: 2025-11-05
-venue: EMNLP - Findings
+venue: EMNLP
 slidesurl: 
 paperurl: 
 citation:
